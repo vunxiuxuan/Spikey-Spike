@@ -1,6 +1,4 @@
 # Table of Contents
-
-# Table of Contents
 - [Introduction](#introduction)
 - [X-UniTech Team, Malaysia](#x-unitech-team-malaysia)
 - [Performance video](#performance-video)
@@ -388,7 +386,7 @@ We acknowledge the use of LEGO® Education SPIKE™ Prime in this project.  LEGO
 
 <img width="760" height="537" alt="image" src="https://github.com/user-attachments/assets/18d7eaf0-c6c2-4d34-8695-09df9a1e1326" />
 
-
+photo 41 blum
 
 
 
