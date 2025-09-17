@@ -386,11 +386,146 @@ We acknowledge the use of LEGO® Education SPIKE™ Prime in this project.  LEGO
 
 <img width="760" height="537" alt="image" src="https://github.com/user-attachments/assets/18d7eaf0-c6c2-4d34-8695-09df9a1e1326" />
 
-photo 41 blum
+<img width="748" height="527" alt="image" src="https://github.com/user-attachments/assets/daf25271-8ed7-415f-a2d5-c25064518e97" />
 
+<img width="760" height="537" alt="image" src="https://github.com/user-attachments/assets/c4c6db6e-1a8d-479c-8273-2a7f61738182" />
+
+<img width="744" height="526" alt="image" src="https://github.com/user-attachments/assets/e9fb1718-0335-4c70-bd43-1caf65459490" />
+
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/391715fc-f308-4b17-b5f4-cab7e48b9c58" />
+
+<img width="746" height="527" alt="image" src="https://github.com/user-attachments/assets/9c1d3a75-ad84-49ef-8521-39f94255d967" />
+
+<img width="744" height="525" alt="image" src="https://github.com/user-attachments/assets/808f152f-dc1c-4c7f-bdd0-9974a79d42e5" />
+
+<img width="750" height="530" alt="image" src="https://github.com/user-attachments/assets/e473c811-69dc-443a-8e9c-d2fd325ab2ae" />
+
+<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/e0336018-b3d1-4657-8251-40ffc52e6f72" />
+
+<img width="746" height="527" alt="image" src="https://github.com/user-attachments/assets/6e93b4b7-03c7-4f5d-8cb8-981035c35b85" />
+
+<img width="751" height="531" alt="image" src="https://github.com/user-attachments/assets/f0e1923d-fd79-4dc9-bd8d-3bdbc4fd3b36" />
+
+<img width="739" height="522" alt="image" src="https://github.com/user-attachments/assets/91714884-2640-413a-8994-57e034761402" />
+
+<img width="738" height="521" alt="image" src="https://github.com/user-attachments/assets/f5be7862-2296-4ae1-9aa9-3dc8d1fac996" />
+
+<img width="751" height="531" alt="image" src="https://github.com/user-attachments/assets/c6e7dec6-965d-4d87-b83e-c4ca51eb3a3e" />
+
+<img width="762" height="539" alt="image" src="https://github.com/user-attachments/assets/ae0111da-6c25-49b6-a4d4-874cddb6373d" />
+
+<img width="747" height="527" alt="image" src="https://github.com/user-attachments/assets/7156ad54-3c61-4855-b1a5-f7c07743fab1" />
+
+<img width="752" height="532" alt="image" src="https://github.com/user-attachments/assets/9879ce43-6867-4d0c-96a9-0383907ce0f6" />
+
+<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/8ec30167-c715-4a0c-ba3b-eb6216a43df9" />
+
+<img width="751" height="530" alt="image" src="https://github.com/user-attachments/assets/4bde31b0-044a-4d1e-bc6f-9399841c53a4" />
+
+<img width="726" height="513" alt="image" src="https://github.com/user-attachments/assets/3a18b181-00fe-4069-a771-b8e988e19106" />
+
+<img width="742" height="525" alt="image" src="https://github.com/user-attachments/assets/27c868d2-c58b-494f-a263-cebb993217aa" />
+
+<img width="728" height="515" alt="image" src="https://github.com/user-attachments/assets/d5422799-c8d4-480b-833f-3690c69f9cda" />
+
+<img width="734" height="519" alt="image" src="https://github.com/user-attachments/assets/9ce271cd-a3fc-4de4-b2c0-9b79d8785b7d" />
+
+<img width="744" height="526" alt="image" src="https://github.com/user-attachments/assets/7875b8e9-2a60-44e7-8b05-75caf93db35a" />
+
+<img width="731" height="517" alt="image" src="https://github.com/user-attachments/assets/1748125e-baec-49f2-ad10-953e0618401a" />
+
+<img width="749" height="530" alt="image" src="https://github.com/user-attachments/assets/d9d01ad0-4fb7-4116-8bf5-cd4eef92b62a" />
+
+<img width="745" height="526" alt="image" src="https://github.com/user-attachments/assets/c9013827-bd14-43c7-ae28-d5d53706db08" />
+
+<img width="753" height="531" alt="image" src="https://github.com/user-attachments/assets/bfda5d67-7bb5-47d0-942e-07c40a2d2feb" />
+
+<img width="745" height="527" alt="image" src="https://github.com/user-attachments/assets/4554c822-903a-4e0c-b6d1-c4e805892c75" />
+
+<img width="764" height="540" alt="image" src="https://github.com/user-attachments/assets/ad2cc3f1-0ed0-43e8-969d-8877acf99d0e" />
+
+<img width="742" height="525" alt="image" src="https://github.com/user-attachments/assets/d30f3e62-0abd-4a21-9cb9-819acfa4a73b" />
+
+<img width="747" height="530" alt="image" src="https://github.com/user-attachments/assets/a9a43ab4-6269-44a6-a3ea-d27f451d904f" />
+
+<img width="747" height="528" alt="image" src="https://github.com/user-attachments/assets/b8e4f155-0c82-4460-895e-740f1813c40d" />
+
+<img width="745" height="526" alt="image" src="https://github.com/user-attachments/assets/c90d73a6-5191-4fe5-96af-8f38c87b71c9" />
+
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/e7bb27b7-1e92-482a-9bc1-b0d899f7902b" />
+
+<img width="751" height="531" alt="image" src="https://github.com/user-attachments/assets/fd2c4251-cac5-4f1b-9f98-8fb0cd3f456b" />
+
+<img width="742" height="524" alt="image" src="https://github.com/user-attachments/assets/aa3f2693-0e17-4b48-80b7-0df5bafac79a" />
+
+<img width="744" height="526" alt="image" src="https://github.com/user-attachments/assets/96764dd3-e3e3-41e7-80ff-efe92acee980" />
+
+<img width="745" height="526" alt="image" src="https://github.com/user-attachments/assets/7a381b14-9c1e-42f9-bd89-6cc2c007cea3" />
+
+<img width="750" height="530" alt="image" src="https://github.com/user-attachments/assets/3506ea9b-2894-4db4-9a9a-f8039b715f24" />
+
+<img width="749" height="530" alt="image" src="https://github.com/user-attachments/assets/2e5b0146-bafa-4792-9fa0-8bcf10efaf3f" />
+
+<img width="746" height="526" alt="image" src="https://github.com/user-attachments/assets/0c5991fb-ecd7-4454-bb60-19703da7efd0" />
+
+<img width="760" height="536" alt="image" src="https://github.com/user-attachments/assets/fd537054-fc67-42ef-8e87-5c980e6bb446" />
+
+<img width="730" height="515" alt="image" src="https://github.com/user-attachments/assets/c96a8816-956a-4625-a278-086aa2cd0f71" />
+
+<img width="744" height="526" alt="image" src="https://github.com/user-attachments/assets/311c9449-8699-49a5-a79a-4f7b72e22b22" />
+
+<img width="750" height="530" alt="image" src="https://github.com/user-attachments/assets/84a0c615-5509-4f43-9046-c0f7c28de5f0" />
+
+<img width="730" height="516" alt="image" src="https://github.com/user-attachments/assets/485e873d-c720-45be-b5d4-f51c9f336853" />
+
+<img width="736" height="519" alt="image" src="https://github.com/user-attachments/assets/2dfcba22-ca7e-4585-baba-e0f3a9260b13" />
+
+<img width="751" height="531" alt="image" src="https://github.com/user-attachments/assets/e3b1614c-863b-4b7e-88cd-8cb74a41539a" />
+
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/3d232c53-8c97-48c8-964d-a711a2882545" />
+
+<img width="754" height="533" alt="image" src="https://github.com/user-attachments/assets/97516567-50f4-4315-92e6-63e5bef41d00" />
+
+<img width="691" height="485" alt="image" src="https://github.com/user-attachments/assets/bda71e36-6d96-4b12-85ad-2d200b041e70" />
+
+<img width="744" height="525" alt="image" src="https://github.com/user-attachments/assets/e916f46e-0a86-4312-8c10-777e27b20747" />
+
+<img width="780" height="552" alt="image" src="https://github.com/user-attachments/assets/cbb278cc-4059-4a86-9d30-cbb3ffc41c75" />
+
+<img width="700" height="494" alt="image" src="https://github.com/user-attachments/assets/a81cfbc5-0784-49f3-bd8f-3dabbeebff6d" />
 
 
 # Appendix 2. Open Challenge Coding
+<img width="692" height="289" alt="image" src="https://github.com/user-attachments/assets/2dfcca58-336b-40b9-b669-b48dde1169dc" />
+
+<img width="454" height="286" alt="image" src="https://github.com/user-attachments/assets/6e8198cd-7fb0-4974-a010-86228d1e679f" />
+
+<img width="337" height="406" alt="image" src="https://github.com/user-attachments/assets/f26ac494-60c4-481a-880e-55f0eec4d386" />
+
+<img width="607" height="822" alt="image" src="https://github.com/user-attachments/assets/8454eee8-e234-46e6-9e42-a5bc9458d364" />
+
+<img width="692" height="260" alt="image" src="https://github.com/user-attachments/assets/cc738f6e-a857-4c6a-8017-b17aa8de48ac" />
+
+<img width="552" height="381" alt="image" src="https://github.com/user-attachments/assets/0eae39ff-dd2e-4818-8aa4-6aff1662b8e4" />
+
+<img width="450" height="310" alt="image" src="https://github.com/user-attachments/assets/1c05f691-be42-4569-b4e9-359a47490179" />
+
+<img width="242" height="311" alt="image" src="https://github.com/user-attachments/assets/7368b02d-2df7-405a-834e-f6ad39f0b1c4" />
+
+<img width="561" height="396" alt="image" src="https://github.com/user-attachments/assets/ad437ccb-e9ce-4434-a5c1-b80914fae9f6" />
+
+<img width="477" height="784" alt="image" src="https://github.com/user-attachments/assets/90e090f0-76c3-40df-b6ca-6ebf831d64a8" />
+
 
 # Appendix 3. Obstacle Challenge Coding
+<img width="520" height="207" alt="image" src="https://github.com/user-attachments/assets/a896dc8c-07d4-47e6-8d3e-5bdcbcd6ba6d" />
+
+<img width="554" height="615" alt="image" src="https://github.com/user-attachments/assets/f6176421-7c03-4598-8cdd-3a30afcfd751" />
+
+<img width="638" height="850" alt="image" src="https://github.com/user-attachments/assets/122c9466-0250-4ed8-898c-c94ea6d0207f" />
+
+<img width="447" height="462" alt="image" src="https://github.com/user-attachments/assets/f2751f1c-5662-4e4b-a3ee-80c117710eb5" />
+
+<img width="419" height="304" alt="image" src="https://github.com/user-attachments/assets/5164c025-199a-49e2-8c82-6fda6c99635b" />
+
 
