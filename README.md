@@ -282,13 +282,115 @@ This part of the program is responsible for enabling the robot to detect a color
 
 
 # 4.0 Engineering Factors
+This section highlights our custom-built and third-party open-source components, accompanied by detailed descriptions of each part integrated into the car.
+Our robot used a third-party component which is a 3D printed camera holder. A 3D-printed camera holder is used to securely mount the sensor, ensuring it remains stable even during motion or sharp turns. This stability allows the ESP32-Cam to consistently capture crucial data for recognizing and interpreting traffic signs, thereby enhancing the robot’s responsiveness to its surroundings and improving performance in both the Open Challenge and Obstacle Challenge.
+
+<img width="493" height="335" alt="image" src="https://github.com/user-attachments/assets/4f64ec48-b90b-40a2-9c37-0499ad8dbedf" />
+
 
 # 5.0 Improvement and Enhancement
+This section describes the challenges encountered during the development of our self-driving car and the approaches we applied to overcome them. Through careful analysis of each issue, we introduced modifications that enhanced the car’s overall performance.
+One of the issues we faced during the challenge is the wheels tended to hit walls during traffic sign avoidance, so we added crash barriers on both sides of the robot. 
+
+<img width="474" height="440" alt="image" src="https://github.com/user-attachments/assets/3f5ae6b3-2652-440c-bac8-0943823a8311" />
+
+These barriers act as buffers, redirecting the robot away from obstacles before the tires make contact. This reduces friction and prevents the robot from getting stuck, allowing it to move smoothly without obstruction.
+Another issue we worked on was in the programming. In the Open Challenge, we initially used the color sensor to scan the line (orange for clockwise and blue for anticlockwise) so the robot could decide when to turn left or right. However, the color sensor sometimes failed to detect the line, which caused the robot to miss turns. 
+
+<img width="546" height="233" alt="image" src="https://github.com/user-attachments/assets/2392b565-dbde-45e4-b3b8-c967902fe6c2" />
+
+To overcome this, we replaced the color sensor with the ultrasonic sensor. With this improvement, the ultrasonic sensor measures the distance from the wall, and if the value is greater than 2000, the robot recognizes that it has reached the edge of the wall and makes the turn. This adjustment increased the robot’s accuracy and reliability, ensuring smoother navigation throughout the challenge.
+
+<img width="552" height="230" alt="image" src="https://github.com/user-attachments/assets/c605cd91-389b-4380-9957-00affbb12061" />
+
 
 # Credits
-
+We acknowledge the use of LEGO® Education SPIKE™ Prime in this project.  LEGO®, the LEGO logo, and SPIKE™ are trademarks of the LEGO Group.  This project is an independent creation and is not sponsored, authorized, or endorsed by the LEGO Group.
 
 # Appendix 1. Building Guide
+<img width="684" height="484" alt="image" src="https://github.com/user-attachments/assets/8eed9e42-acb8-400e-88c7-6d6af1c0f976" />
+
+<img width="696" height="489" alt="image" src="https://github.com/user-attachments/assets/33a44102-5c68-42a6-9b81-10c1a9325426" />
+
+<img width="728" height="515" alt="image" src="https://github.com/user-attachments/assets/ad5fc535-18e4-448e-88ca-fbf56857df65" />
+
+<img width="728" height="514" alt="image" src="https://github.com/user-attachments/assets/91fd6fc2-eca5-4349-a1a1-027f944a74a4" />
+
+<img width="697" height="492" alt="image" src="https://github.com/user-attachments/assets/4f03e17c-65d6-47ae-accd-a0a37e060be2" />
+
+<img width="670" height="473" alt="image" src="https://github.com/user-attachments/assets/9dd5e5f4-3f82-4a25-a18c-d5f9ef4ca7e3" />
+
+<img width="715" height="506" alt="image" src="https://github.com/user-attachments/assets/421c848a-5804-4905-b5af-6ea84d6fc5cb" />
+
+<img width="705" height="497" alt="image" src="https://github.com/user-attachments/assets/cea12209-6630-45f1-bf24-3f3e6b525316" />
+
+<img width="731" height="516" alt="image" src="https://github.com/user-attachments/assets/3dfa35b0-a3b6-4f34-b787-ea75a981d08b" />
+
+<img width="765" height="541" alt="image" src="https://github.com/user-attachments/assets/1253d7ff-ba16-4f98-9f83-f929fe99bd5e" />
+
+<img width="736" height="520" alt="image" src="https://github.com/user-attachments/assets/8d17bb45-78a2-4532-b7b8-590d87909877" />
+
+<img width="726" height="513" alt="image" src="https://github.com/user-attachments/assets/b96d340d-fd32-4e07-a6ea-d3d84a67e030" />
+
+<img width="735" height="519" alt="image" src="https://github.com/user-attachments/assets/8f3695e1-25cc-4164-a870-74e1addf4bca" />
+
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/6b1dae21-cd34-4f29-a888-5b8304d0bf98" />
+
+<img width="739" height="522" alt="image" src="https://github.com/user-attachments/assets/053d6599-f49e-4e3f-a7b3-3ec5c63b32f7" />
+
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/fde2a1ce-fa65-4763-ae7a-e93a53867ffa" />
+
+<img width="746" height="527" alt="image" src="https://github.com/user-attachments/assets/fe0943db-5cc4-4d5f-beae-2e31fe47d1ff" />
+
+<img width="750" height="531" alt="image" src="https://github.com/user-attachments/assets/def1fba3-0051-476c-b311-f07170ffedc8" />
+
+<img width="737" height="521" alt="image" src="https://github.com/user-attachments/assets/efd1bcae-e955-4a96-bcba-7272bcae16fd" />
+
+<img width="744" height="526" alt="image" src="https://github.com/user-attachments/assets/829898c4-0d69-4fe4-98b3-fac6a79f13a8" />
+
+<img width="716" height="505" alt="image" src="https://github.com/user-attachments/assets/85a0994e-945e-4e09-8eac-03110ef64948" />
+
+<img width="739" height="522" alt="image" src="https://github.com/user-attachments/assets/1b261b0a-ff4b-4a12-9f24-77cc69536336" />
+
+<img width="755" height="534" alt="image" src="https://github.com/user-attachments/assets/1ba7e073-8ee9-4f12-a7d3-ff451319343e" />
+
+<img width="749" height="529" alt="image" src="https://github.com/user-attachments/assets/2a39918b-ee81-4d1d-bd4b-eedd9448e62a" />
+
+<img width="747" height="527" alt="image" src="https://github.com/user-attachments/assets/a0ccec9e-ed20-4a4d-96bc-84f4add346fb" />
+
+<img width="751" height="531" alt="image" src="https://github.com/user-attachments/assets/c5775b52-48a5-416d-b64f-76d2fa6aa31d" />
+
+<img width="728" height="515" alt="image" src="https://github.com/user-attachments/assets/d3da9180-77c2-4e06-82b5-2250bee90c9f" />
+
+<img width="754" height="533" alt="image" src="https://github.com/user-attachments/assets/c9e130fc-7c72-40ab-bbd6-93627bec207b" />
+
+<img width="756" height="534" alt="image" src="https://github.com/user-attachments/assets/e7abe334-3d25-4044-9757-400441724016" />
+
+<img width="745" height="526" alt="image" src="https://github.com/user-attachments/assets/715f417b-b9fb-44cc-97b9-d793ec20d4b4" />
+
+<img width="735" height="520" alt="image" src="https://github.com/user-attachments/assets/b6302d4f-7cd8-48da-8a12-a30eb26981af" />
+
+<img width="740" height="523" alt="image" src="https://github.com/user-attachments/assets/f9d5edce-21ac-48b2-b8de-775bd95f6a0d" />
+
+<img width="746" height="528" alt="image" src="https://github.com/user-attachments/assets/1adf76f4-9a88-4346-a073-409895e70af8" />
+
+<img width="760" height="537" alt="image" src="https://github.com/user-attachments/assets/327bca9a-8771-410a-89d4-db91ea21ea63" />
+
+<img width="747" height="527" alt="image" src="https://github.com/user-attachments/assets/e1d2cc84-dfdd-4825-adad-0c57f429be01" />
+
+<img width="756" height="534" alt="image" src="https://github.com/user-attachments/assets/a195e506-e653-491a-b5ef-c6036b063504" />
+
+<img width="755" height="534" alt="image" src="https://github.com/user-attachments/assets/29f26620-4c2c-443f-b1e9-f7114bfd8947" />
+
+<img width="746" height="526" alt="image" src="https://github.com/user-attachments/assets/d509193b-f1d6-43dc-9f30-bd6d66e9c87a" />
+
+<img width="748" height="527" alt="image" src="https://github.com/user-attachments/assets/48ed8dfb-c97e-4305-a9e3-41a978453139" />
+
+<img width="760" height="537" alt="image" src="https://github.com/user-attachments/assets/18d7eaf0-c6c2-4d34-8695-09df9a1e1326" />
+
+
+
+
 
 # Appendix 2. Open Challenge Coding
 
